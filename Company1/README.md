@@ -3,13 +3,12 @@
 ###  Overview 
 ![1](https://github.com/user-attachments/assets/6cc60c3e-ddef-471e-9cff-6c40dc69cfdf)
 
-Amazon Shipping is a company which ships a variety of FMCG (Fast Moving Consumer Goods) all over the world.
+Company 1 is a business that operates in various sectors and requires comprehensive visibility into its financial and sales performance.
 
-The Shipping Manager doesn't have much visibility and doesn't know how many orders are processed and shipped on a monthly basis.
-He would like a dashboard of this where he selects a month and can tell how many orders are outstanding a day and where they should be shipped.
+The Operations Manager has requested a dashboard that provides a clear overview of the company’s key metrics, including monthly expenses, revenue, the top 25 best-selling items, the 10 least-sold items, and the top 10 companies they are partnered with.
 
-He has given us csv files from which we have to create a Dashboard for his quick review so that he could take further decisions for the benefit of the company.
+To facilitate this, the manager has provided CSV files containing the relevant data, and our task is to create a dynamic dashboard for his quick review. This will help the manager track performance, make data-driven decisions, and optimize partnerships.
 
-Thus, we created below interactive dashboard as per his requirement. Now, he could switch and view different shipping stats for different months and years.   
+We have developed an interactive dashboard based on these requirements. Now, the manager can easily monitor expenses, revenue trends, sales performance, and partnership data at a glance.   
 
-You can view Amazon Shipping Analytics Dashboard on my Tableau Public Profile link - [https://public.tableau.com/profile/utkarsh.yadav6297#!/  ](https://public.tableau.com/app/profile/greycin.kim/viz/Book1_17268671841890/GeneralDashboard?publish=yes)
+You can view the Dashboard on my Tableau Public Profile link - [Company1 Tableau](https://public.tableau.com/app/profile/greycin.kim/viz/Book1_17268671841890/GeneralDashboard?publish=yes)
