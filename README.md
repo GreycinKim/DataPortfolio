@@ -1,4 +1,4 @@
-# Data Engineering Portfolio
+# Data Portfolio
 
 Welcome to my Data Engineering Portfolio! Here, I showcase various projects that highlight my passion for using data and technology to solve real-world problems. Each project represents my dedication to learning and innovation in data engineering.
 
