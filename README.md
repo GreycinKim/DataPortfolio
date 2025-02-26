@@ -1,10 +1,16 @@
-# Data Portfolio
+# 2024 General Analytics
 
-Welcome to my Data Engineering Portfolio! Here, I showcase various projects that highlight my passion for using data and technology to solve real-world problems. Each project represents my dedication to learning and innovation in data engineering.
+###  Overview 
+![1](https://github.com/user-attachments/assets/6cc60c3e-ddef-471e-9cff-6c40dc69cfdf)
 
-In this portfolio, you'll find projects covering different technologies and areas, with detailed guides and step-by-step instructions. Whether it's integrating APIs, building cloud-based solutions, or automating data workflows, these projects demonstrate my skills and curiosity in turning data into valuable insights.
+![2](https://github.com/user-attachments/assets/38c6a694-87ea-4e00-b9b2-fb4b773f16dd)
 
-Feel free to explore the projects, check out the technologies I've used, and see how I've tackled various challenges in data engineering. With each project, I continue to grow and expand my capabilities in this exciting field.
+Company 1 is a business that operates in various sectors and requires comprehensive visibility into its financial and sales performance.
 
----
+The Operations Manager has requested a dashboard that provides a clear overview of the company’s key metrics, including monthly expenses, revenue, the top 25 best-selling items, the 10 least-sold items, and the top 10 companies they are partnered with.
 
+To facilitate this, the manager has provided CSV files containing the relevant data, and our task is to create a dynamic dashboard for his quick review. This will help the manager track performance, make data-driven decisions, and optimize partnerships.
+
+We have developed an interactive dashboard based on these requirements. Now, the manager can easily monitor expenses, revenue trends, sales performance, and partnership data at a glance.   
+
+You can view the Dashboard on my Tableau Public Profile link - [Company1 Tableau](https://public.tableau.com/app/profile/greycin.kim/viz/Book1_17268671841890/GeneralDashboard?publish=yes)
